@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import lombok.extern.slf4j.Slf4j;
 import com.example.tacocloud.Ingredient;
 import com.example.tacocloud.Ingredient.Type;
-import com.example.tacoCloud.Taco;
-import com.example.tacoCloud.TacoOrder;
+import com.example.tacocloud.Taco;
+import com.example.tacocloud.TacoOrder;
 
 @Slf4j
 @Controller

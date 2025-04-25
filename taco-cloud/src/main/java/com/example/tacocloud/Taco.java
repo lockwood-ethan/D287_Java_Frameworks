@@ -8,7 +8,7 @@ public class Taco {
 
     private String name;
 
-    private List<Ingredient> ingredients;
+    private List<IngredientRef> ingredientRefs;
 
     private Long id;
 

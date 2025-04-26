@@ -1,4 +1,4 @@
-package com.example.tacocloud;
+package com.example.tacocloud.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.convert.converter.Converter;

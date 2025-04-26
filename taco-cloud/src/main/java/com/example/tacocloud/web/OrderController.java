@@ -1,4 +1,4 @@
-package com.example.tacocloud;
+package com.example.tacocloud.web;
 import jakarta.validation.Valid;
 
 import org.springframework.stereotype.Controller;
